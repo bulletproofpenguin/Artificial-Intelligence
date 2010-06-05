@@ -1,3 +1,5 @@
+/* This represents an association between two Nodes */
+
 package data_objects;
 
 import java.lang.*;
